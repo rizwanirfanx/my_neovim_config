@@ -1,0 +1,11 @@
+{
+  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/15.0.6/clangd_15.0.6/bin/clangd",
+  "java.imports.gradle.wrapper.checksums": [
+    {
+      "sha256": "65e45cec6f57a53c6e0f03e0bd51930fd8f820732c6c6f3f6bc4ebb67382d553",
+      "allowed": false
+    }
+  ],
+  "java.import.gradle.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
+  "svelte.enable-ts-plugin": true
+}
